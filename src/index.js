@@ -51,6 +51,7 @@ function useForEach(array) {
 }
 console.log(useForEach(data2));
 
+//not working
 function useFor(array) {
   let newArray = [];
   for (let i = 0; i < array.length; i++) {
